@@ -1,0 +1,82 @@
+body {
+    font: 100% arial, sans-serif;
+}
+
+input {
+    margin: 6px;
+    border-style:inset;
+    border-color: #FFFF66;
+    border-width: 1px;
+    font: 100% arial, sans-serif;
+}
+
+.title {
+    background-color: #FFD700;
+	text-align:center;
+    text-indent: 7px;
+    margin: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.townSelect {
+	text-align:right;
+	display:inline-block;
+}
+
+.selectText {
+	text-align:left;
+	display:inline-block;
+}
+
+.toolbar {
+    padding: 5px;
+}
+
+.list {
+    padding: 10px;
+	text-align:left;
+}
+
+.listItems {
+	padding : 30px;
+	
+}
+
+.section {
+    background-color: white;
+    padding-left: 4px;
+    padding-right: 4px;
+	width: 200px;
+	margin-left:30px;
+}
+.bars{
+	padding:20px;
+	border
+}
+
+.monitor {
+    background-color: #F9F7BA;
+    float: left;
+	width:400px;
+    -moz-box-shadow: 7px 7px 8px #818181;
+    margin: 20px;
+}
+.btns {
+	margin-left:65px;
+	border-radius: 25px;
+	background: #FFD700;
+}
+.btns:hover {
+	background: #FFA500;
+}
+
+.numeric {
+    font: 100% arial, sans-serif;
+    text-align:right;
+    float:right;
+}
+
+.section_label {
+    font: 100% arial, sans-serif;
+    padding-left: 2px;
+}
